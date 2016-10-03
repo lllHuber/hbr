@@ -3,5 +3,6 @@ src/assets/scss/.sass-cache/*
 dist/*
 jspm_packages/*
 node_modules/*
+application/*
 
 *.log

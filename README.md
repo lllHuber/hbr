@@ -1,4 +1,4 @@
-#LifeStyleTV Base Project 
+#HBR Dash Base Project 
 Create modern web applications with the power of Aurelia, JQuery, Sass, Susy, Iconic.
 
 ##Project Setup
